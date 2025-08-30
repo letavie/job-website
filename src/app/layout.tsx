@@ -21,7 +21,9 @@ export const metadata = {
     description: "Find your next career opportunity",
     url: "https://job-website-olive.vercel.app/",
     siteName: "vlus",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Vlus" }],
+    images: [
+      { url: "/images/og-image.png", width: 1200, height: 630, alt: "Vlus" },
+    ],
     locale: "en_US",
     type: "website",
   },

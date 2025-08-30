@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://job-website-olive.vercel.app
+
+# Sitemaps
+Sitemap: https://job-website-olive.vercel.app/sitemap.xml
